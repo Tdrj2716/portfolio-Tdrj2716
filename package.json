@@ -8,10 +8,10 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3"
   },
-  "homepage": "http://tdrj2716.github.io/myapp",
+  "homepage": "https://tdrj2716.github.io/portfolio-Tdrj2716",
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && mv build docs",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "deploy": "yarn build && gh-pages -d build"
